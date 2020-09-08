@@ -1,6 +1,6 @@
 ### Hi there, I'm Anton 😺
 
-[![Instagram](https://www.instagram.com/daunpictures/)
+<br />
 
 ## I'm a Web Developer and Artist!
 
