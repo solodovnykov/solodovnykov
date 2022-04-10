@@ -20,5 +20,13 @@ I am a full-stack developer student with a passion for UX/UI design and 3D, and 
 **What've I been up to this week?** 
 
 <!--START_SECTION:waka-->
+
+```text
+Markdown     1 hr 33 mins    ████████████████████████▓   98.19 %
+JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+```
+
 <!--END_SECTION:waka-->
 
