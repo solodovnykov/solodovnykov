@@ -1,24 +1,24 @@
-<h1 align="center">Hi 👋, I'm Anton</h1>
-<h3 align="center">I'm a front-end dev (full-stack in the future :D)</h3>
+### Hey!! I'm Anton :) 
 
-- 🌱 I’m currently learning **Next.js and TypeScript**
+[![Freelancehunt Badge](https://img.shields.io/badge/-Freelancehunt-0e76a8?style=flat-square&logo=)](https://freelancehunt.com/freelancer/solodovnykov.html )
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/daunpictures/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-9cf?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/solodovnykov)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/15343834/tobi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="375674" height="30" width="40" /></a>
-<a href="https://www.instagram.com/daunpictures/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daunpictures" height="30" width="40" /></a>
-<a href="https://discord.gg/6978" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6978" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>  </p>
+### Happy to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Solodovnykov.Solodovnykov)
+
+I am a full-stack developer student with a passion for UX/UI design and 3D, and finding ways to improve the world with my talents and passions! 
+<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40LewisMenelaws%2Fbest-things-to-listen-to-for-getting-shit-done-d74938ccecfd&psig=AOvVaw1usB32Lzz8dIBzOnMgYaH7&ust=1649703663691000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCOiotZyXivcCFQAAAAAdAAAAABAD" width="500" height="281" />
+
+**What I'm up to?**
+
+- This year my classes will be devoted to learning Next.js and Typescript
+- Improving skills in UX/UI design
+- Improving skills in 3D graphics for integration into design
+- I want to work in areas that I have not yet tried my hand at (web/design)
+
+**What've I been up to this week?** 
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-#### Profile Visits
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@solodovnykov)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solodovnykov&hide=contribs,prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solodovnykov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
