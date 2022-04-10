@@ -8,7 +8,7 @@
 ### Happy to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Solodovnykov.Solodovnykov)
 
 I am a full-stack developer student with a passion for UX/UI design and 3D, and finding ways to improve the world with my talents and passions! 
-<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40LewisMenelaws%2Fbest-things-to-listen-to-for-getting-shit-done-d74938ccecfd&psig=AOvVaw1usB32Lzz8dIBzOnMgYaH7&ust=1649703663691000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCOiotZyXivcCFQAAAAAdAAAAABAD" width="500" height="281" />
+<img align="right" alt="GIF" src="https://github.com/solodovnykov/solodovnykov/blob/master/jake.gif" width="500" height="281" />
 
 **What I'm up to?**
 
