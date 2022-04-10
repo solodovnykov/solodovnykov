@@ -5,7 +5,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-9cf?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/solodovnykov)
 
 
-### Happy to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Solodovnykov.Solodovnykov)
+### Happy to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=solodovnykov.solodovnykov)
 
 I am a full-stack developer student with a passion for UX/UI design and 3D, and finding ways to improve the world with my talents and passions! 
 <img align="right" alt="GIF" src="https://github.com/solodovnykov/solodovnykov/blob/master/jake.gif" width="277" height="222" />
