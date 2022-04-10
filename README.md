@@ -8,7 +8,7 @@
 ### Happy to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Solodovnykov.Solodovnykov)
 
 I am a full-stack developer student with a passion for UX/UI design and 3D, and finding ways to improve the world with my talents and passions! 
-<img align="right" alt="GIF" src="https://github.com/solodovnykov/solodovnykov/blob/master/jake.gif" width="249" height="200" />
+<img align="right" alt="GIF" src="https://github.com/solodovnykov/solodovnykov/blob/master/jake.gif" width="277" height="222" />
 
 **What I'm up to?**
 
