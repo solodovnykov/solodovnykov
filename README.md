@@ -26,8 +26,8 @@ I am a full-stack developer student with a passion for UX/UI design and 3D, and 
 <!--START_SECTION:waka-->
 
 ```text
-SCSS         3 hrs 12 mins   █████████████████░░░░░░░░   67.98 %
-JavaScript   1 hr 30 mins    ████████░░░░░░░░░░░░░░░░░   32.02 %
+SCSS         3 hrs 3 mins    ███████████████▓░░░░░░░░░   63.01 %
+JavaScript   1 hr 47 mins    █████████▒░░░░░░░░░░░░░░░   36.99 %
 ```
 
 <!--END_SECTION:waka-->
