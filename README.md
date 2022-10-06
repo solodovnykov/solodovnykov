@@ -3,6 +3,7 @@
 [![Freelancehunt Badge](https://img.shields.io/badge/-Freelancehunt-0e76a8?style=flat-square&logo=)](https://freelancehunt.com/freelancer/solodovnykov.html )
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/daunpictures/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-9cf?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/solodovnykov)
+[![Code Wars](https://www.codewars.com/users/solodovnykov/badges/micro)](https://www.codewars.com/users/solodovnykov)
 
 <img align="right" alt="GIF" src="https://github.com/solodovnykov/solodovnykov/blob/master/jake.gif" width="277" height="222" />
 
