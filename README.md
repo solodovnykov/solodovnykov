@@ -27,7 +27,7 @@ I am a full-stack developer student with a passion for UX/UI design and 3D, and 
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
